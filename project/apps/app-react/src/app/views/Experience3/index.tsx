@@ -11,7 +11,7 @@ const onRender = (id: string, phase: string, actualDuration: number) => {
  * @return {Object} Return the dom of the Experience
  */
 const Experience = () => {
-  const [fibItem, setFibItem] = useState(36);
+  const [fibItem, setFibItem] = useState(35);
   const [val, setVal] = useState(0);
   const [val2, setVal2] = useState(0);
   const [isPending, startTransition] = useTransition();
