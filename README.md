@@ -6,3 +6,4 @@
 - **Expertience2**: Force rerender by using flushSync between two setter that should be batch.
 - **Expertience3**: Playing with the startTransition
 - **Expertience4**: useId hook - For linking html tag together
+- **Expertience5**: Still have the problem of multiple Suspense blocking the other one
