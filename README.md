@@ -7,3 +7,5 @@
 - **Expertience3**: Playing with the startTransition
 - **Expertience4**: useId hook - For linking html tag together
 - **Expertience5**: Still have the problem of multiple Suspense blocking the other one
+- **Expertience6**: Testing Suspense with only one too long component
+- **Expertience7**: Playing with the useDeferredValue
